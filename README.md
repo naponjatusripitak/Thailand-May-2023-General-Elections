@@ -12,7 +12,7 @@ The datasets and shapefiles used in this analysis include:
 - [Results](https://ectreport66.ect.go.th/data/excel/2566_election_result.xlsx) and [official statistics](https://www.ect.go.th/web-upload/1xff0d34e409a13ef56eea54c52a291126/m_document/2028/21360/file_download/14c269b6893553a8f697f16f32be2e59.xlsx) of the 2023 Thai General Elections by the Election Commission of Thailand
 - [2023 Population data](https://stat.bora.dopa.go.th/new_stat/file/65/stat_t65.xls.) by the Bureau of Registration Administration
 - [Thailand Subdistrict Boundaries 2023](https://www.arcgis.com/home/item.html?id=d5af177c9cea4ea2be1fa62bc0836f7b) by ESRI Thailand
-- [Province and region (ชุดข้อมูลจังหวัดและภูมิภาคในประเทศไทย)](https://data.go.th/dataset/3aa027e3-5485-4da2-89b0-b399fab019a0/resource/0c2aa4d6-90ef-405f-acf2-20507ced4fab/download/25640531_sc002_.xlsx)
+- [Province and region (ชุดข้อมูลจังหวัดและภูมิภาคในประเทศไทย)](https://data.go.th/dataset/3aa027e3-5485-4da2-89b0-b399fab019a0/resource/0c2aa4d6-90ef-405f-acf2-20507ced4fab/download/25640531_sc002_.xlsx) by Digital Government Development Agency (สำนักงานพัฒนารัฐบาลดิจิทัล)
 
 ## Acknowledgements
 
