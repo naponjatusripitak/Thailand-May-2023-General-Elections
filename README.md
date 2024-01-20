@@ -29,6 +29,8 @@ Special thanks to the authors and collaborators who have contributed to the unde
 
 For any further questions or requests, please open an issue in this repository or contact naponjatusripitak@gmail.com
 
+## Codes from Thailand_2023_Election.ipynb
+
 ```python
 #### Import libraries ####
 import pandas as pd
@@ -180,11 +182,8 @@ filtered_data.to_excel("election_results.xlsx")
 
 # Display
 filtered_data
+
 ```
-
-
-
-
 <div>
 <style scoped>
     .dataframe tbody tr th:only-of-type {
